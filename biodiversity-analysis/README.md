@@ -6,7 +6,7 @@ Data analysis of species recorded across four U.S. national parks, exploring bio
 
 ## 🏔️ Data Source
 
-The dataset comes from Codecademy’s “Biodiversity in National Parks” project and is based on data from the U.S. National Parks Service. It includes two CSV files:
+The dataset comes from Codecademy’s 'Biodiversity in National Parks' project and is based on data from the U.S. National Parks Service. It includes two CSV files:
 
 * `species_info.csv` – species names, categories, and conservation status
 * `observations.csv` – species sightings by park
