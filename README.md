@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science & Stats Portfolio
 
 Welcome! 👋 I'm a mathematics graduate passionate about statistics and data-driven problem solving. This repository showcases a selection of my projects as I progress as a data scientist & statistician.
 
