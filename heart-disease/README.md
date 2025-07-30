@@ -1,6 +1,6 @@
 ## 🫀 Project Description
 
-Statistical analysis of patient data from the Cleveland Clinic Foundation to investigate factors associated with heart disease. This project is part of my Codecademy portfolio, developed during the Data Scientist: Machine Learning career path.
+Statistical analysis of patient data from the Cleveland Clinic Foundation to investigate factors associated with heart disease. This project is part of my Codecademy portfolio, developed during my Data Scientist: Machine Learning career path, with additional methods self-studied outside of the course.
 
 ---
 
@@ -27,5 +27,13 @@ The dataset has been pre-cleaned by Codecademy for analysis and includes the fol
 | `fbs`        | Fasting blood sugar > 120 mg/dl (`1` = yes, `0` = no) |
 | `thalach`    | Maximum heart rate achieved during exercise |
 | `heart_disease` | Presence of heart disease (`presence` or `absence`) |
+
+---
+
+## ✏️ Key Findings
+
+* Age and maximum heart rate (thalach) differed significantly between heart disease and non-disease groups (T-tests).
+* Chest pain type (cp) showed a strong association with heart disease (Chi-Square test).
+* A suspected link between asymptomatic cases and lower thalach was not statistically significant (ANOVA).
 
 ---
